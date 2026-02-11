@@ -43,3 +43,35 @@ sequenceDiagram
     Note over M: Cálculo de Coordenadas Relativas
     M-->>S: Broadcast do Evento (Sincronização)
     Note over S: Execução Simultânea
+```
+   
+🛡️ Status de Segurança (Fingerprinting)
+O motor de antidetecção está em constante evolução técnica:
+
+Canvas Fingerprinting: Implementação de injeção de ruído (noise) nas APIs de imagem.
+
+⚠️ Status: Em refinamento técnico. O recurso está sendo otimizado para aumentar a taxa de aprovação em testes de hardware fingerprinting mais rigorosos.
+
+WebRTC & Proxy: Isolamento completo de IP para evitar vazamentos (leaks).
+
+Hardware Masking: Mascaramento de memória, núcleos de CPU e GPU Vendor.
+
+📚 Documentação Detalhada
+Para detalhes técnicos profundos, consulte os arquivos na pasta /docs:
+
+📄 Arquitetura do Sistema - Detalhes sobre Electron e IPC.
+
+📄 Protocolos de Segurança - Explicação sobre spoofing e proteção de dados.
+
+📄 Funcionalidades e Automação - Como o Modo Espelho funciona por baixo dos panos.
+
+✉️ Contato
+Para demonstrações ao vivo ou questões comerciais:
+
+LinkedIn: Joao Manoel
+
+GitHub: @Joaogama05
+
+Status do Projeto: Em desenvolvimento ativo.
+
+Ambiente de Desenvolvimento: Otimizado para Ubuntu/Linux.
