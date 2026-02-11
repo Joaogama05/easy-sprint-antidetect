@@ -1,6 +1,6 @@
 # 🛡️ Easy Sprint - AntiDetect Browser Engine
 
-![Interface Preview](image_d3c69b.png)
+![Interface Preview](assets/image_d3c69b.png)
 
 Este repositório apresenta a documentação técnica e a arquitetura de um navegador focado em privacidade e automação de alta performance. Desenvolvido com **Electron**, **React** e **Node.js**, o projeto é uma solução robusta para gerenciamento de múltiplas identidades digitais, garantindo isolamento total de perfis e evasão de sistemas de rastreamento.
 
