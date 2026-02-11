@@ -68,7 +68,7 @@ Para detalhes técnicos profundos, consulte os arquivos na pasta /docs:
 ✉️ Contato
 Para demonstrações ao vivo ou questões comerciais:
 
-LinkedIn: Joao Manoel
+LinkedIn: https://www.google.com/search?q=https://www.linkedin.com/in/joaomanoelgpc
 
 GitHub: @Joaogama05
 
