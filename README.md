@@ -50,7 +50,7 @@ O motor de antidetecção está em constante evolução técnica:
 
 Canvas Fingerprinting: Implementação de injeção de ruído (noise) nas APIs de imagem.
 
-⚠️ Status: Em refinamento técnico. O recurso está sendo otimizado para aumentar a taxa de aprovação em testes de hardware fingerprinting mais rigorosos.
+⚠️ Status: Em refinamento técnico. O recurso está sendo otimizado para aumentar a taxa de aprovação em testes de hardware fingerprinting rigorosos.
 
 WebRTC & Proxy: Isolamento completo de IP para evitar vazamentos (leaks).
 
@@ -72,6 +72,6 @@ LinkedIn: Joao Manoel
 
 GitHub: @Joaogama05
 
-Status do Projeto: Em desenvolvimento ativo.
+Ambiente de Desenvolvimento: Desenvolvido em Windows (com suporte/otimização para Linux).
 
-Ambiente de Desenvolvimento: Otimizado para Ubuntu/Linux.
+Status do Projeto: Em desenvolvimento ativo.
